@@ -1,3 +1,5 @@
 # flare_sims
 ISSI team simulated flares
-first batch = 1 flare, 1 qpp, white noise
+first batch
+
+fits files, 2 columns, 'time', 'flux', id numbers randomly assigned
